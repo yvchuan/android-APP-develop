@@ -50,15 +50,15 @@ public class BoutiqueFragment extends LazyFragment {
 
     public void initData() {
         mData = new LinkedList<BoutiqueLv>();
-        mData.add(new BoutiqueLv("普宁美食", "普宁美食", R.drawable.puning));
+        mData.add(new BoutiqueLv("服务指南", "服务指南", R.drawable.anhui_fuwuzhinan));
 //        mData.add(new BoutiqueLv("普宁肠粉", "普宁肠粉", R.drawable.boutique_1));
-        mData.add(new BoutiqueLv("潮州美食", "潮州美食", R.drawable.chaozhou));
+        mData.add(new BoutiqueLv("数字资源", "数字资源", R.drawable.anhui_shuziziyuan));
 //        mData.add(new BoutiqueLv("两汉精品展示", "两汉精品展示", R.drawable.boutique_2));
-        mData.add(new BoutiqueLv("汕头美食", "汕头美食", R.drawable.shantou));
+        mData.add(new BoutiqueLv("志愿者服务", "志愿者服务", R.drawable.anhui_zhiyuanzhefuwu));
 //        mData.add(new BoutiqueLv("唐宋精品展示", "唐宋精品展示", R.drawable.boutique_3));
-        mData.add(new BoutiqueLv("惠来美食", "惠来美食", R.drawable.huilai));
-//        mData.add(new BoutiqueLv("", "明清精品展示", R.drawable.boutique_4));
-        mData.add(new BoutiqueLv("洪阳美食", "洪阳美食", R.drawable.hongyang));
+//        mData.add(new BoutiqueLv("惠来美食", "惠来美食", R.drawable.huilai));
+////        mData.add(new BoutiqueLv("", "明清精品展示", R.drawable.boutique_4));
+//        mData.add(new BoutiqueLv("洪阳美食", "洪阳美食", R.drawable.hongyang));
 //        mData.add(new BoutiqueLv("近代精品展示", "近代精品展示", R.drawable.boutique_5));
         mAdapter = new BoutiqueFragmentAdapter((LinkedList<BoutiqueLv>) mData, getContext());
         list_animal.setAdapter(mAdapter);

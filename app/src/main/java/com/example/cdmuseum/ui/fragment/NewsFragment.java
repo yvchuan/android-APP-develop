@@ -48,21 +48,24 @@ public class NewsFragment extends LazyFragment {
         list_news = new ArrayList<String>();
         list_news_url = new ArrayList<String>();
 
-        list_news.add("•“普宁肠粉详细步骤及配料大全”");
-        list_news_url.add("https://baijiahao.baidu.com/s?id=1610511618962547643&wfr=spider&for=pc&searchword=%E6%99%AE%E5%AE%81%E8%82%A0%E7%B2%89%E5%81%9A%E6%B3%95%E5%A4%A7%E5%85%A8");
+        list_news.add("•安徽省图书馆学会简介");
+//        list_news_url.add("https://baijiahao.baidu.com/s?id=1610511618962547643&wfr=spider&for=pc&searchword=%E6%99%AE%E5%AE%81%E8%82%A0%E7%B2%89%E5%81%9A%E6%B3%95%E5%A4%A7%E5%85%A8");
+        list_news_url.add("https://www.ahlib.com/main/detail?mainid=1033&id=46231");
         //https://www.cdmuseum.com/xinwen/202211/2899.html
 
 
-        list_news.add("•“牛肉丸做法大全，快快点击进来学习吧");
-        list_news_url.add("https://baijiahao.baidu.com/s?id=1610511618962547643&wfr=spider&for=pc&searchword=%E6%99%AE%E5%AE%81%E8%82%A0%E7%B2%89%E5%81%9A%E6%B3%95%E5%A4%A7%E5%85%A8");
+        list_news.add("•安徽网借");
+        list_news_url.add("https://wsjh.ahlib.com:2020/tcshop/1616/index");
+//        list_news_url.add("https://baijiahao.baidu.com/s?id=1610511618962547643&wfr=spider&for=pc&searchword=%E6%99%AE%E5%AE%81%E8%82%A0%E7%B2%89%E5%81%9A%E6%B3%95%E5%A4%A7%E5%85%A8");
         //https://www.cdmuseum.com/xinwen/202211/2898.html
 
-        list_news.add("•做普宁豆干原来这么简单？");
-        list_news_url.add("https://m.renrenshipu.com/caipu/video/15485.html#step1");
+        list_news.add("•古籍保护");
+        list_news_url.add("http://www.ahlib.com:9999/ahgjbh/index.html");
+//        list_news_url.add("https://m.renrenshipu.com/caipu/video/15485.html#step1");
         //https://www.cdmuseum.com/xinwen/202211/2897.html
 
-        list_news.add("•拥有潮汕同款蚝烙,你也可以学会");
-        list_news_url.add("https://m.xiachufang.com/recipe/104549974/");
+        list_news.add("•图书馆联盟");
+        list_news_url.add("https://www.ahlib.com/main?mainid=1624&colid=1186");
         //https://www.cdmuseum.com/xinwen/202211/2896.html
 
     }
