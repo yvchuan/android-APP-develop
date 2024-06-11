@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/et_bg.xml" value="0.145" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/et_bian.xml" value="0.145" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/home_banner_indicator_blue.xml" value="0.11666666666666667" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/home_banner_indicator_dark.xml" value="0.11666666666666667" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/selector_main_me.xml" value="0.11666666666666667" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/selector_main_message.xml" value="0.11666666666666667" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/drawable/selector_main_tab_home.xml" value="0.237" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_addcaidan.xml" value="0.1" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_boutique_home.xml" value="0.2833333333333333" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_boutique_home_detail.xml" value="0.13779128672745694" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_dingdan.xml" value="0.16666666666666666" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_login.xml" value="0.13779128672745694" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_main.xml" value="0.2875" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_melody.xml" value="0.2875" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_register.xml" value="0.2164855072463768" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/activity_userinfo.xml" value="0.1" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/fragment_home.xml" value="0.286231884057971" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/fragment_news.xml" value="0.286231884057971" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/fragment_reserve.xml" value="0.22" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/fragment_user.xml" value="0.16666666666666666" />
+        <entry key="..\:/Code/CdMuseum/app/src/main/res/layout/item_list_boutique_gv.xml" value="0.1578125" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/activity_boutique_home.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/activity_boutique_home_detail.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/activity_manager.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/item_list_boutique.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/item_list_boutique1.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/item_memo.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/layout/reyce_list.xml" value="0.10326086956521739" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/menu/menu_add_course.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/xumks/Downloads/New/CdMuseum/app/src/main/res/menu/menu_fragment_home.xml" value="0.10416666666666667" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/bnt.xml" value="0.2" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/home_banner_indicator_blue.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/img_back.xml" value="0.2" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/reg.xml" value="0.2" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/selector_main_message.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/selector_main_tab_cart.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/drawable/selector_main_tab_text.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_about.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_addcaidan.xml" value="0.1515625" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_caidandetail.xml" value="0.1515625" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_detail.xml" value="0.1515625" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_intro.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_login_admin.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_main.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_manager.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_newsdetails.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_register.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/activity_userinfo.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/fragment_home.xml" value="0.18614130434782608" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/fragment_news.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/fragment_rank.xml" value="0.1515625" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/fragment_store.xml" value="0.1" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/layout/fragment_user.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/xumks/Downloads/Scstm/app/src/main/res/menu/menu_add_course.xml" value="0.15260416666666668" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

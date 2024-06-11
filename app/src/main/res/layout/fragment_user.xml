@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/actionbar_color"
+        android:gravity="center"
+        android:text="我的"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <RelativeLayout
+                android:layout_margin="30dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/cdmuseum" />
+
+            <TextView
+                android:visibility="gone"
+                android:text="@string/app_name"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="40dp" />
+
+            <RelativeLayout
+                android:id="@+id/rl_userinfo"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:text="用户信息"
+                    android:layout_centerVertical="true"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_width="8dp"
+                    android:layout_height="11dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/next" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_marginTop="2dp"
+                android:id="@+id/rl_about"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <TextView
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:text="应用简介"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/next"
+                    android:layout_width="8dp"
+                    android:layout_height="11dp" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/rl_reserve"
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="@string/activity_reserve_title"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/next"
+                    android:layout_width="8dp"
+                    android:layout_height="11dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_records"
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <TextView
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:text="@string/activity_reserve_records"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/next"
+                    android:layout_width="8dp"
+                    android:layout_height="11dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_restart"
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp">
+
+                <TextView
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="16sp"
+                    android:text="切换账号"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <ImageView
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/next"
+                    android:layout_width="8dp"
+                    android:layout_height="11dp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_exit"
+                android:layout_marginTop="20dp"
+                android:background="@color/actionbar_color"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="45dp">
+
+                <TextView
+                    android:textColor="#fff"
+                    android:textSize="20sp"
+                    android:gravity="center"
+                    android:text="退出"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
